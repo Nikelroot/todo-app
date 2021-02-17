@@ -1,4 +1,4 @@
-# Todo app React && MobX
+# Todo app React & MobX
 
 ## Available Scripts
 
